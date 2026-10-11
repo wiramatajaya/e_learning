@@ -1,6 +1,9 @@
 # Sistem Informasi E-Learning & Akademik Sekolah (EduLearn)
 
 Aplikasi E-Learning dan Manajemen Akademik Sekolah berbasis **PHP Native (OOP MVC)**, **MySQL (PDO)**, **Tailwind CSS**, dan **Vanilla JavaScript** yang dibangun sesuai dengan **Product Requirement Document (PRD)** dan Entity Relationship Diagram (ERD).
+![Login ](demo/login.png)
+![Dashboard Admin ](demo/dashboard_admin.png)
+![Dashboard Admin ](demo/dashboard_guru.png)
 
 ---
 
